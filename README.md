@@ -8,3 +8,6 @@ If package-lock.json is corrupted or out of date, regenerate it by running npm u
 
 # Run the application
 npm run build
+
+# You will have to fork the repository to work on this.
+
