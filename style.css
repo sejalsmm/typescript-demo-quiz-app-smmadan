@@ -1,0 +1,25 @@
+#quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+#options {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+#options button.selected {
+    background-color: #007bff;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
